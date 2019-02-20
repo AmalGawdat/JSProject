@@ -1,0 +1,20 @@
+#filterDiv *{margin-bottom: 10px;}
+#filterDiv input[type=button] {
+    margin-top: 10px;
+    border-radius: 0.5;
+    border: 1px solid darkcyan;
+    border-radius: 15px;
+    width: 140px;
+    height: 35px;
+    color: white;
+    background-color: darkcyan;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+h1{
+    margin-top: -5px;
+    font-size: 40px;
+}
+#divProducts img{
+    margin-left: 20px;
+}

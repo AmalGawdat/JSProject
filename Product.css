@@ -1,0 +1,79 @@
+#finalProductDiv img
+    {height:auto; width:400px;}
+#addCartBtn {
+    margin-top: 10px;
+    border-radius: 0.5;
+    border: 1px solid darkcyan;
+    border-radius: 15px;
+    width: 300px;
+    height: 35px;
+    color: white;
+    background-color: darkcyan;
+    margin-right: 5px;
+    margin-left: 40px;
+}
+
+#sizeDiv label
+{
+    border-radius: 1;
+    border: 1px solid darkcyan;
+    border-radius: 15px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+#sizeDiv input[type=button]
+{
+    border-radius: 1;
+    border: 1px solid darkcyan;
+    border-radius: 15px;
+    margin-right: 5px;
+    margin-left: 5px;
+    height: 25px;
+    background-color: beige;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+#sizeDiv button
+{
+    border-radius: 1;
+    border: 1px solid darkcyan;
+    border-radius: 15px;
+    margin-right: 5px;
+    margin-left: 5px;
+    height: 25px;
+    background-color: beige;
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+#sizeDiv input[type=button]:hover
+{
+    background-color: darkcyan;
+}
+#sizeDiv disabled:hover
+{
+    background-color: beige;
+}
+#sizeDiv input[type=button] : target
+{
+    background-color: darkcyan;
+}
+#bigInfoFinalProDiv
+{
+    position: absolute;
+    left: 500px;
+    top: 200px;
+}
+.qnt
+{
+    font-size: 18px;
+}
+select
+{
+    margin-left: 15px;
+}
+#selectqnt
+{
+    background-color: beige;
+}

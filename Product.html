@@ -5,88 +5,9 @@
         <link rel="stylesheet" href="Picky.css" type="text/css">
         <script src="jquery-3.3.1.min.js"></script>
         <script src="Picky.js"></script>
-        <style>
-            #finalProductDiv img
-                {height:auto; width:400px;}
-            #addCartBtn {
-                margin-top: 10px;
-                border-radius: 0.5;
-                border: 1px solid darkcyan;
-                border-radius: 15px;
-                width: 300px;
-                height: 35px;
-                color: white;
-                background-color: darkcyan;
-                margin-right: 5px;
-                margin-left: 40px;
-            }
-
-            #sizeDiv label
-            {
-                border-radius: 1;
-                border: 1px solid darkcyan;
-                border-radius: 15px;
-                margin-right: 5px;
-                margin-left: 5px;
-            }
-
-            #sizeDiv input[type=button]
-            {
-                border-radius: 1;
-                border: 1px solid darkcyan;
-                border-radius: 15px;
-                margin-right: 5px;
-                margin-left: 5px;
-                height: 25px;
-                background-color: beige;
-                margin-bottom: 10px;
-                font-size: 15px;
-            }
-            #sizeDiv button
-            {
-                border-radius: 1;
-                border: 1px solid darkcyan;
-                border-radius: 15px;
-                margin-right: 5px;
-                margin-left: 5px;
-                height: 25px;
-                background-color: beige;
-                margin-bottom: 10px;
-                font-size: 15px;
-            }
-           
-            #sizeDiv input[type=button]:hover
-            {
-                background-color: darkcyan;
-            }
-            #sizeDiv disabled:hover
-            {
-                background-color: beige;
-            }
-            #sizeDiv input[type=button] : target
-            {
-                background-color: darkcyan;
-            }
-            #bigInfoFinalProDiv
-            {
-                position: absolute;
-                left: 500px;
-                top: 200px;
-            }
-            .qnt
-            {
-                font-size: 18px;
-            }
-            select
-            {
-                margin-left: 15px;
-            }
-            #selectqnt
-            {
-                background-color: beige;
-            }
-            
-        </style>
+        <link rel="stylesheet" href="Product.css" type="text/css">
+<!--        <script src="login.js"></script>-->
+<!--        <script src="addToCart.js"></script>-->
     </head>
 
     <body>
@@ -105,8 +26,6 @@
         <div id="brandDiv">
             <a href="HomePage.html">Picky</a>   
         </div>
-         
-       
         <ul id="categoriesList">
 
             <li><a href="MainCategory.html?catid=WomenMainc4443f66107e83f86333">Women</a></li>        
@@ -136,7 +55,7 @@
         <input id='addCartBtn' type='button' value='Add to Cart'>
         </div>
         
-                <div id="footer">
+        <div id="footer">
           <div id="CU">
                 <p>Contact Us</p>
                 <img src="Images/Phone.png">
@@ -171,29 +90,7 @@
                 </ul>
             </div>    
         </div>
-        <script>
-            
-        window.addEventListener('load' , function(){
-
- clickedbtn = document.getElementById('sizeDiv');
-          
-            
-    clickedbtn.addEventListener('click',function(e){
-        if(  e.target.type == "button")
-        {
-            if(e.target.style.backgroundColor=="beige")
-                {
-                Array.from(  document.querySelectorAll(".clickedBtn")).forEach(b => b.style.backgroundColor="beige");
-                e.target.style.backgroundColor="darkcyan";
-                }
-            else
-                {
-                Array.from(  document.querySelectorAll(".clickedBtn")).forEach(b => b.style.backgroundColor="beige");
-                e.target.style.backgroundColor="beige";
-                }
-        }
-    })
-        })
-        </script>
+        
+        <script src="Product.js"></script>
     </body>
 </html>

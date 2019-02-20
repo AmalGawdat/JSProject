@@ -145,3 +145,11 @@ body
    font-size: 25px;
     font-weight: normal;
 }
+
+#cart
+{
+    position: relative;
+    width: 30px;
+    left: 10px;
+    top: 5px;
+}

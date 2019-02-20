@@ -1,0 +1,25 @@
+ #fillMainDiv
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#fillMainDiv h1
+{
+    color: darkcyan;
+    text-decoration: underline;
+}
+#fillMainDiv a
+{
+    text-decoration: none;
+    font-size: 30px;
+    color: darkcyan;
+}
+#fillMainDiv ul
+{
+    list-style: none;
+}
+#fillMainDiv li
+{
+    padding-bottom: 10px;
+}

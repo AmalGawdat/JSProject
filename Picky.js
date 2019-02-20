@@ -40,7 +40,6 @@ window.addEventListener('load', function()
             }
         }
     });
-
 })
 
 function getCategoryInternal(catId, parentCategory)
@@ -63,8 +62,6 @@ function getCategoryInternal(catId, parentCategory)
     
     return null;
 }
-
-
 
 function getQueryString()
 {
@@ -152,7 +149,6 @@ function fillProducts(products)
     }
     document.getElementById('divProducts').innerHTML = html;
 }
-    
 
 //Product
 function fillFinalProduct(product)

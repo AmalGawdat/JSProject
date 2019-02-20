@@ -3,30 +3,10 @@
     <head>
         <title>Picky</title>
         <link rel="stylesheet" href="EcommerceCSS.css" type="text/css">
-        <style>
-            #filterDiv *{margin-bottom: 10px;}
-            #filterDiv input[type=button] {
-                margin-top: 10px;
-                border-radius: 0.5;
-                border: 1px solid darkcyan;
-                border-radius: 15px;
-                width: 140px;
-                height: 35px;
-                color: white;
-                background-color: darkcyan;
-                margin-right: 5px;
-                margin-left: 5px;
-            }
-            h1{
-                margin-top: -5px;
-                font-size: 40px;
-            }
-            #divProducts img{
-                margin-left: 20px;
-            }
-        </style>
+        <link rel="stylesheet" href="SubCategory.css" type="text/css">
         <script src="jquery-3.3.1.min.js"></script>
         <script src="Picky.js"></script>
+<!--        <script src="login.js"></script>-->
     </head>
 
     <body>
@@ -44,14 +24,13 @@
         <div id="brandDiv">
             <a href="HomePage.html">Picky</a>   
         </div>
-    
-       
         <ul id="categoriesList">
 
             <li><a href="MainCategory.html?catid=WomenMainc4443f66107e83f86333">Women</a></li>        
             <li><a href="MainCategory.html?catid=MenCol187634">Men</a></li>        
             <li><a href="MainCategory.html?catid=5c66c4443f66107e83f86333">Kids</a></li>        
         </ul>
+        
         <div id="filterDiv">
         <label>Filter by Price, Up To $</label>
         <input input id='priceWanted' type='number' pattern="[0-9]">
@@ -70,97 +49,7 @@
         <div id='divCategoryInfo'></div>
         <div id='divProducts' class="Product row"></div>
         
-        <script>
-            var chkBrandMS = document.getElementById('chkBrandMS');
-            var chkBrandZ = document.getElementById('chkBrandZ');
-            var chkBrandHM = document.getElementById('chkBrandHM');
-            var chkBrandPB = document.getElementById('chkBrandPB');
-            var chkBrandS = document.getElementById('chkBrandS');
-            var priceWanted = document.getElementById('priceWanted');
-            
-            function getFilteredProducts()
-            {
-                var checkedBrands = [];
-                var myProducts = [];
-                
-                if(chkBrandMS.checked)
-                    checkedBrands.push(chkBrandMS.value);
-                if(chkBrandZ.checked)
-                    checkedBrands.push(chkBrandZ.value);
-                if(chkBrandHM.checked)
-                    checkedBrands.push(chkBrandHM.value);
-                if(chkBrandPB.checked)
-                    checkedBrands.push(chkBrandPB.value);
-                if(chkBrandS.checked)
-                    checkedBrands.push(chkBrandS.value);
-                
-                var myPrice = parseInt(priceWanted.value);
-                myPrice = myPrice.toFixed(2);
-                if(checkedBrands.length == 0 && priceWanted.value.length == 0)
-                {
-                    myProducts = pageCategory.products;
-                    return myProducts;
-                }
-                for(product of pageCategory.products)
-                {
-                    var boolBrand = true;
-                    var boolPrice = true;
-                    if(checkedBrands.length != 0)
-                        boolBrand = false;
-                    if(priceWanted.value.length != 0)
-                        boolPrice = false
-                    console.log("boolBrand "+boolBrand);
-                    console.log("boolPrice "+boolPrice);
-                    
-                    var productPrice = parseFloat(product.price.substr(1));
-                    var productbrand = product.brand;
-                    if(boolBrand == false)
-                    {
-                        var checkBrand = checkedBrands.indexOf(productbrand);
-                        if(checkBrand != -1)
-                            boolBrand = true;
-                    }
-                    
-                    if(boolPrice == false)
-                    {
-                        if(myPrice >= productPrice)
-                            boolPrice = true;
-                    }
-                    
-                    console.log("boolBrand "+boolBrand);
-                    console.log("boolPrice "+boolPrice);
-                    if(boolBrand == true && boolPrice == true)
-                    {
-                        myProducts.push(product);
-                    }
-                    
-                }
-               
-                return myProducts;
-            }
-       
-            function filterProducts()
-            {
-                var products = getFilteredProducts();
-                fillProducts(products);
-            }
-            function clearClicked()
-            {
-                clearInputs();
-                fillProducts(pageCategory.products);
-            }
-            function clearInputs()
-            {
-                priceWanted.value="";
-                chkBrandMS.checked = false;
-                chkBrandZ.checked = false;
-                chkBrandHM.checked = false;
-                chkBrandPB.checked = false;
-                chkBrandS.checked = false;
-            }
-        </script>
-        
-                <div id="footer">
+        <div id="footer">
           <div id="CU">
                 <p>Contact Us</p>
                 <img src="Images/Phone.png">
@@ -196,6 +85,6 @@
             </div>    
         </div>
         
-        
+        <script src="Filter.js"></script>
     </body>
 </html>
