@@ -1,0 +1,482 @@
+[
+  {
+    "id": "5c66c73bba032b9cb25578c2",
+    "index": 0,
+    "name": "Suede Moccasin Slippers",
+    "brand": "Zara",
+    "price": "$271.60",
+    "picture": "./Images/Women/Shoes/Slippers/1.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": true
+      },
+      {
+        "38": false
+      },
+      {
+        "39": true
+      },
+      {
+        "40": true
+      },
+      {
+        "41": true
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66c73bbf9773bc46f12255",
+    "index": 1,
+    "name": "Pom-Pom Moccasin Slippers",
+    "brand": "H&M",
+    "price": "$216.61",
+    "picture": "./Images/Women/Shoes/Slippers/2.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": true
+      },
+      {
+        "38": true
+      },
+      {
+        "39": true
+      },
+      {
+        "40": false
+      },
+      {
+        "41": true
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66c73bd3c35d541558bb7c",
+    "index": 2,
+    "name": "Mule Slippers",
+    "brand": "Pull&Bear",
+    "price": "$211.54",
+    "picture": "./Images/Women/Shoes/Slippers/3.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": true
+      },
+      {
+        "38": false
+      },
+      {
+        "39": true
+      },
+      {
+        "40": true
+      },
+      {
+        "41": true
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66c73b9ea963914e7416fa",
+    "index": 3,
+    "name": "Bow Mule Slippers",
+    "brand": "Zara",
+    "price": "$276.11",
+    "picture": "./Images/Women/Shoes/Slippers/4.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": true
+      },
+      {
+        "38": true
+      },
+      {
+        "39": false
+      },
+      {
+        "40": false
+      },
+      {
+        "41": false
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66c73b683b43358586b2e5",
+    "index": 4,
+    "name": "Turned Down Slipper Boots",
+    "brand": "H&M",
+    "price": "$339.33",
+    "picture": "./Images/Women/Shoes/Slippers/5.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": true
+      },
+      {
+        "38": true
+      },
+      {
+        "39": true
+      },
+      {
+        "40": true
+      },
+      {
+        "41": true
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66c73bb700fc0e4a8603fa",
+    "index": 5,
+    "name": "Cable Knit Slipper Boots",
+    "brand": "H&M",
+    "price": "$250.38",
+    "picture": "./Images/Women/Shoes/Slippers/6.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": false
+      },
+      {
+        "38": false
+      },
+      {
+        "39": true
+      },
+      {
+        "40": true
+      },
+      {
+        "41": false
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66c73b164dd6f56c1d155e",
+    "index": 6,
+    "name": "Faux Fur Slipper Boots",
+    "brand": "Stradivarius",
+    "price": "$358.40",
+    "picture": "./Images/Women/Shoes/Slippers/7.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": false
+      },
+      {
+        "38": false
+      },
+      {
+        "39": false
+      },
+      {
+        "40": true
+      },
+      {
+        "41": true
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66c73be3f4b966604d7f9e",
+    "index": 7,
+    "name": "Faux Fur Slipper Boots",
+    "brand": "Pull&Bear",
+    "price": "$310.17",
+    "picture": "./Images/Women/Shoes/Slippers/8.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": false
+      },
+      {
+        "38": false
+      },
+      {
+        "39": false
+      },
+      {
+        "40": true
+      },
+      {
+        "41": true
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66c73b80293aa7830ffc36",
+    "index": 8,
+    "name": "Mule Bow Detail Slippers",
+    "brand": "Zara",
+    "price": "$238.52",
+    "picture": "./Images/Women/Shoes/Slippers/9.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": true
+      },
+      {
+        "38": true
+      },
+      {
+        "39": false
+      },
+      {
+        "40": true
+      },
+      {
+        "41": true
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66c73b21fd01b7d83ad1a9",
+    "index": 9,
+    "name": "Fur Ballerina Slippers",
+    "brand": "Pull&Bear",
+    "price": "$234.26",
+    "picture": "./Images/Women/Shoes/Slippers/10.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": false
+      },
+      {
+        "38": true
+      },
+      {
+        "39": false
+      },
+      {
+        "40": true
+      },
+      {
+        "41": true
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66c73bbadaa49ee2880376",
+    "index": 10,
+    "name": "Cable Knit Mule Slippers",
+    "brand": "Stradivarius",
+    "price": "$361.59",
+    "picture": "./Images/Women/Shoes/Slippers/11.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": true
+      },
+      {
+        "38": true
+      },
+      {
+        "39": false
+      },
+      {
+        "40": true
+      },
+      {
+        "41": false
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66c73b98591ad4d1170818",
+    "index": 11,
+    "name": "Pom-Pom Moccasin Slippers",
+    "brand": "Zara",
+    "price": "$288.98",
+    "picture": "./Images/Women/Shoes/Slippers/12.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": false
+      },
+      {
+        "38": true
+      },
+      {
+        "39": true
+      },
+      {
+        "40": false
+      },
+      {
+        "41": false
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66c73b63dd586f3bfe9582",
+    "index": 12,
+    "name": "Snuggle Slipper Boots",
+    "brand": "Stradivarius",
+    "price": "$311.26",
+    "picture": "./Images/Women/Shoes/Slippers/13.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": false
+      },
+      {
+        "38": false
+      },
+      {
+        "39": true
+      },
+      {
+        "40": false
+      },
+      {
+        "41": true
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66c73b539358227dbe33b4",
+    "index": 13,
+    "name": "All Over Spotted Mule Slippers",
+    "brand": "Pull&Bear",
+    "price": "$313.46",
+    "picture": "./Images/Women/Shoes/Slippers/14.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": false
+      },
+      {
+        "38": false
+      },
+      {
+        "39": false
+      },
+      {
+        "40": true
+      },
+      {
+        "41": false
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66c73b57f9d2b124dc7212",
+    "index": 14,
+    "name": "Heart Embroidered Open Toe Mule Slippers",
+    "brand": "Stradivarius",
+    "price": "$271.25",
+    "picture": "./Images/Women/Shoes/Slippers/15.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": false
+      },
+      {
+        "38": true
+      },
+      {
+        "39": true
+      },
+      {
+        "40": true
+      },
+      {
+        "41": true
+      },
+      {
+        "42": true
+      }
+    ]
+  }
+]

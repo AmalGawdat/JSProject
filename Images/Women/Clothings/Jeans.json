@@ -1,0 +1,582 @@
+[
+  {
+    "id": "5c66924ed8e7198180eb2e9e",
+    "index": 0,
+    "name": "Ivy Skinny Ankle Grazer Jeans",
+    "brand": "Pull&Bear",
+    "price": "$443.14",
+    "picture": "./Images/Women/Clothings/Jeans/1.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66924e83952d03e8c1c7d2",
+    "index": 1,
+    "name": "Sienna Straight Ankle Grazer Jeans",
+    "brand": "Stradivarius",
+    "price": "$489.01",
+    "picture": "./Images/Women/Clothings/Jeans/2.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66924e8a4afa2f6f545ce1",
+    "index": 2,
+    "name": "Lily Slim Ankle Grazer Jeans",
+    "brand": "Zara",
+    "price": "$343.71",
+    "picture": "./Images/Women/Clothings/Jeans/3.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66924e6291e412f7c1293c",
+    "index": 3,
+    "name": "Mid Rise Relaxed Slim Leg Ankle Grazer Jeans",
+    "brand": "Stradivarius",
+    "price": "$462.44",
+    "picture": "./Images/Women/Clothings/Jeans/4.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66924ebc333b38bdbcdef7",
+    "index": 4,
+    "name": "Mid Rise Relaxed Slim Leg Jeans",
+    "brand": "Marks & Spencer",
+    "price": "$484.82",
+    "picture": "./Images/Women/Clothings/Jeans/5.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66924e105009221375a9b7",
+    "index": 5,
+    "name": "High Waist Super Skinny Jeans",
+    "brand": "Marks & Spencer",
+    "price": "$379.47",
+    "picture": "./Images/Women/Clothings/Jeans/6.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66924e0950f2f7a086cfb3",
+    "index": 6,
+    "name": "High Waist Super Skinny Jeans",
+    "brand": "Marks & Spencer",
+    "price": "$369.37",
+    "picture": "./Images/Women/Clothings/Jeans/7.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66924eb89e0d9ec4c4a158",
+    "index": 7,
+    "name": "Roma Rise Straight Leg Jeans",
+    "brand": "Stradivarius",
+    "price": "$417.81",
+    "picture": "./Images/Women/Clothings/Jeans/8.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66924e48afcd9383223644",
+    "index": 8,
+    "name": "Mid Rise Slim Fit Jeans",
+    "brand": "Stradivarius",
+    "price": "$475.97",
+    "picture": "./Images/Women/Clothings/Jeans/9.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66924e9c9fac184b8ef3fe",
+    "index": 9,
+    "name": "Mid Rise Straight Leg Jeans",
+    "brand": "H&M",
+    "price": "$358.37",
+    "picture": "./Images/Women/Clothings/Jeans/10.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66924ea946ab2c8e8e1ed2",
+    "index": 10,
+    "name": "High Waist Wide Leg Cropped Jeans",
+    "brand": "H&M",
+    "price": "$498.98",
+    "picture": "./Images/Women/Clothings/Jeans/11.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66924eac18b0b61c3ecf92",
+    "index": 11,
+    "name": "High Waist Straight Leg Ankle Grazer Jeans",
+    "brand": "Zara",
+    "price": "$442.82",
+    "picture": "./Images/Women/Clothings/Jeans/12.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66924e2bc09ea556a52c82",
+    "index": 12,
+    "name": "Mid Rise Super Skinny Jeans",
+    "brand": "Zara",
+    "price": "$493.77",
+    "picture": "./Images/Women/Clothings/Jeans/13.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66924e1696f0b8ba460b9f",
+    "index": 13,
+    "name": "Sculpt & Slim Straight Leg Jeans",
+    "brand": "Zara",
+    "price": "$327.32",
+    "picture": "./Images/Women/Clothings/Jeans/14.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66924ef4cc4f39fffecefc",
+    "index": 14,
+    "name": "Sculpt & Lift Roma Rise Slim Leg Jeans",
+    "brand": "Stradivarius",
+    "price": "$427.08",
+    "picture": "./Images/Women/Clothings/Jeans/15.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66924e75c6f304de8b02c7",
+    "index": 15,
+    "name": "High Waist Skinny Flare Jeans",
+    "brand": "Stradivarius",
+    "price": "$430.47",
+    "picture": "./Images/Women/Clothings/Jeans/16.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66924ec699509c143993c4",
+    "index": 16,
+    "name": "Sculpt & Lift Straight Leg Jeans",
+    "brand": "Pull&Bear",
+    "price": "$312.06",
+    "picture": "./Images/Women/Clothings/Jeans/17.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66924ec0b5352f16657010",
+    "index": 17,
+    "name": "CURVE 360 Contour High Waist Straight Jeans",
+    "brand": "H&M",
+    "price": "$390.05",
+    "picture": "./Images/Women/Clothings/Jeans/18.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66924eab654b1511ebfb8b",
+    "index": 18,
+    "name": "Sculpt & Lift Roma Rise Slim Boot Cut Jeans",
+    "brand": "H&M",
+    "price": "$358.83",
+    "picture": "./Images/Women/Clothings/Jeans/19.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66924e2ea32ccc0fc5f62a",
+    "index": 19,
+    "name": "Mid Rise Skinny Leg Jeans",
+    "brand": "Marks & Spencer",
+    "price": "$300.06",
+    "picture": "./Images/Women/Clothings/Jeans/20.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  }
+]

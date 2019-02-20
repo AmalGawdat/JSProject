@@ -1,0 +1,322 @@
+[
+  {
+    "id": "5c66c51530931f5797acde13",
+    "index": 0,
+    "name": "Leather Ring Detail Loafers",
+    "brand": "H&M",
+    "price": "$382.51",
+    "picture": "./Images/Women/Shoes/Loafers/1.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": false
+      },
+      {
+        "38": true
+      },
+      {
+        "39": false
+      },
+      {
+        "40": false
+      },
+      {
+        "41": false
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66c515307520dd85313e54",
+    "index": 1,
+    "name": "Wide Fit Leather Tassel Loafers",
+    "brand": "Stradivarius",
+    "price": "$353.06",
+    "picture": "./Images/Women/Shoes/Loafers/2.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": false
+      },
+      {
+        "38": true
+      },
+      {
+        "39": false
+      },
+      {
+        "40": false
+      },
+      {
+        "41": true
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66c515fc8525dbce3e4af0",
+    "index": 2,
+    "name": "Leather Loafers",
+    "brand": "Stradivarius",
+    "price": "$364.49",
+    "picture": "./Images/Women/Shoes/Loafers/3.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": true
+      },
+      {
+        "38": false
+      },
+      {
+        "39": true
+      },
+      {
+        "40": true
+      },
+      {
+        "41": false
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66c5158800736f4abeffc4",
+    "index": 3,
+    "name": "Tassel Loafers",
+    "brand": "Stradivarius",
+    "price": "$362.37",
+    "picture": "./Images/Women/Shoes/Loafers/4.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": true
+      },
+      {
+        "38": true
+      },
+      {
+        "39": true
+      },
+      {
+        "40": false
+      },
+      {
+        "41": false
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66c5151bf61c82ff323426",
+    "index": 4,
+    "name": "Leather Chain Detail Loafers",
+    "brand": "Pull&Bear",
+    "price": "$436.11",
+    "picture": "./Images/Women/Shoes/Loafers/5.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": false
+      },
+      {
+        "38": false
+      },
+      {
+        "39": false
+      },
+      {
+        "40": true
+      },
+      {
+        "41": true
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66c515e870ec286d7b892b",
+    "index": 5,
+    "name": "Tassel Loafers",
+    "brand": "Marks & Spencer",
+    "price": "$323.22",
+    "picture": "./Images/Women/Shoes/Loafers/6.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": true
+      },
+      {
+        "38": true
+      },
+      {
+        "39": true
+      },
+      {
+        "40": false
+      },
+      {
+        "41": false
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66c5155747a229f838475a",
+    "index": 6,
+    "name": "Leather Chain Detail Loafers",
+    "brand": "Zara",
+    "price": "$371.37",
+    "picture": "./Images/Women/Shoes/Loafers/7.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": false
+      },
+      {
+        "38": true
+      },
+      {
+        "39": false
+      },
+      {
+        "40": false
+      },
+      {
+        "41": false
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66c5153f38c08658cb3a47",
+    "index": 7,
+    "name": "Wide Fit Leather Tassel Loafers",
+    "brand": "Marks & Spencer",
+    "price": "$339.03",
+    "picture": "./Images/Women/Shoes/Loafers/8.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": true
+      },
+      {
+        "38": false
+      },
+      {
+        "39": true
+      },
+      {
+        "40": false
+      },
+      {
+        "41": true
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66c515b16bc9b1dbca6840",
+    "index": 8,
+    "name": "Leather Tassel Loafers",
+    "brand": "Pull&Bear",
+    "price": "$322.44",
+    "picture": "./Images/Women/Shoes/Loafers/9.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": true
+      },
+      {
+        "38": false
+      },
+      {
+        "39": false
+      },
+      {
+        "40": true
+      },
+      {
+        "41": false
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66c515602049465bde4999",
+    "index": 9,
+    "name": "Wide Fit Metal Trim Loafers",
+    "brand": "H&M",
+    "price": "$374.68",
+    "picture": "./Images/Women/Shoes/Loafers/10.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": true
+      },
+      {
+        "38": true
+      },
+      {
+        "39": true
+      },
+      {
+        "40": true
+      },
+      {
+        "41": true
+      },
+      {
+        "42": true
+      }
+    ]
+  }
+]

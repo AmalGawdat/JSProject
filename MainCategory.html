@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Picky</title>
+        <link rel="stylesheet" href="Picky.css" type="text/css">
+        <style>
+            #fillMainDiv{
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-around;
+            }
+            #fillMainDiv h1{
+                color: darkcyan;
+                text-decoration: underline;
+            }
+            #fillMainDiv a{
+                text-decoration: none;
+                font-size: 30px;
+                color: darkcyan;
+            }
+            #fillMainDiv ul{
+                list-style: none;
+            }
+            #fillMainDiv li{
+                padding-bottom: 10px;
+            }
+        </style>
+        <script src="jquery-3.3.1.min.js"></script>
+        <script src="jquery-3.3.1.js"></script>
+        <script src="jquery.autocomplete.min.js"></script>
+        <script src="Picky.js"></script>
+    </head>
+
+    <body>
+<div id="signInDiv">
+            <form>
+                <input id="name" type="text" placeholder="Username" required name="name" pattern="[a-zA-Z]{1-16}">
+                <input id="password" type="password" placeholder="Password" required name="password" pattern="[]{1-16}">
+                <br><br>
+                <input id="signInBtn" type="submit" value="Login">
+                <br><br>
+                <a id="registerLink" href="RegisterPage.html"><u>Don't have an account? Register NOW!</u></a>
+            </form>
+        </div>
+        <br>
+        <div id="brandDiv">
+            <a href="HomePage.html">Picky</a>   
+        </div>
+    
+       
+        <ul id="categoriesList">
+
+            <li><a href="MainCategory.html?catid=WomenMainc4443f66107e83f86333">Women</a></li>        
+            <li><a href="MainCategory.html?catid=MenCol187634">Men</a></li>        
+            <li><a href="MainCategory.html?catid=5c66c4443f66107e83f86333">Kids</a></li>        
+        </ul>
+        
+
+        <div id="fillMainDiv"></div>
+        <div id="footer">
+          <div id="CU">
+                <p>Contact Us</p>
+                <img src="Images/Phone.png">
+                <span>+ 973 17507979</span>
+                <br>
+                <img src="Images/Mail.png">
+                <span>support@picky.com</span>
+            </div>
+          <div>
+                <p>Follow Us</p>
+                <ul>
+                        <li>
+                            <a target="_blank" href="//www.facebook.com/">
+                                <img id="FB" src = "Images/Facebook.png">
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="//www.twitter.com/">
+                                <img id="Twitter" src = "Images/Twitter.png">
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="//www.youtube.com/">
+                                <img id="YT" src = "Images/YouTube.png">
+                            </a>
+                        </li>
+                        <li>
+                            <a class="icon googleplus" target="_blank" href="//plus.google.com/">
+                                <img id="GP" src = "Images/GooglePlus.png">
+                            </a>
+                        </li>
+                </ul>
+            </div>    
+        </div>
+
+    </body>
+</html>

@@ -1,0 +1,147 @@
+@import url('styles.css');
+body
+{
+    background-color: beige;
+}
+
+#inpt-txt-srch {
+    box-sizing: border-box;
+}
+#Search button{
+    height: 35px;
+    text-align: center;
+    cursor: pointer;
+}
+#Search{
+    display: flex;
+}
+#Search img{
+    height: 30px;
+    width: auto;
+}
+
+
+#Search input[type=search]{
+    width:360px;
+    height: 35px;
+    padding-left: 5px;
+    font-size: 17px;
+}
+
+#signInDiv
+{
+    position: absolute;
+    right: 20px;
+    color: white;
+    height: 50px;
+}
+
+#name, #password {
+    height: 20px;
+}
+#signInBtn {
+    width: 70px;
+    height: 25px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+}
+#registerLink
+{
+    color: black;
+}
+#brandDiv
+{
+    height: 60px;
+    text-align: center;
+}
+#brandDiv a{
+    
+    color: black;
+    font-family: cursive;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 48px;
+}
+#brandDiv a:hover{
+    color: darkcyan;
+}
+#categoriesList
+{
+    margin-top: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+    list-style: none;
+    background-color: black;
+    height: 35px;  
+} 
+#categoriesList a{
+    
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+#categoriesList a:hover{
+    color:bisque;
+}
+
+#categoriesImg {
+    text-align: center;
+    margin-left: 80px;
+}
+
+#categoriesImg img{
+    width: 400px;
+    height: auto;
+    margin-right: 15px;
+}
+#KidsCategory img:hover{
+    content: url(Images/BabyGirl.jpg);
+}
+#MenCategory img:hover{
+    content: url(Images/ManHover.jpg);
+}
+#WomenCategory img:hover{
+    content: url(Images/WomanHover.jpg);
+}
+
+#footer{
+    background-color: black;
+    margin-top: 35px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#footer ul{
+   display: flex;
+    margin-top: 15px;
+   list-style: none;
+    padding-left: 25px;
+}
+#footer ul li{
+    padding-right: 5px;
+}
+#footer ul li:hover{
+    opacity: 0.7;
+}
+#footer *{
+    margin: 0;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+#CU img{
+   padding-top: 15px;
+    padding-left: 25px;
+}
+#CU span{
+   font-size: 25px;
+    font-weight: normal;
+}

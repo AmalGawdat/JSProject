@@ -1,0 +1,437 @@
+[
+  {
+    "id": "5c66a12bd3cf0abad55eef58",
+    "index": 0,
+    "name": "Textured Single Breasted Blazer",
+    "brand": "Marks & Spencer",
+    "price": "$658.06",
+    "picture": "./Images/Women/Clothings/Blazers/1.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66a12b89eb0d24bf1251c4",
+    "index": 1,
+    "name": "Ruched Sleeve Blazer",
+    "brand": "Pull&Bear",
+    "price": "$583.56",
+    "picture": "./Images/Women/Clothings/Blazers/2.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a12b1d801ab6734d3150",
+    "index": 2,
+    "name": "Single Breasted Blazer",
+    "brand": "Pull&Bear",
+    "price": "$744.31",
+    "picture": "./Images/Women/Clothings/Blazers/3.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a12b93324712b3ff0c26",
+    "index": 3,
+    "name": "Single Breasted Blazer",
+    "brand": "Stradivarius",
+    "price": "$572.10",
+    "picture": "./Images/Women/Clothings/Blazers/4.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a12b80d0afe8e28feb68",
+    "index": 4,
+    "name": "Checked Double Breasted Blazer",
+    "brand": "Pull&Bear",
+    "price": "$608.57",
+    "picture": "./Images/Women/Clothings/Blazers/5.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a12beb3680d975197e9d",
+    "index": 5,
+    "name": "Textured Blazer",
+    "brand": "Stradivarius",
+    "price": "$772.99",
+    "picture": "./Images/Women/Clothings/Blazers/6.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a12b7fd9d2dee9a332f9",
+    "index": 6,
+    "name": "Single Breasted Blazer",
+    "brand": "Pull&Bear",
+    "price": "$501.41",
+    "picture": "./Images/Women/Clothings/Blazers/7.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66a12b1ac29d4c27304922",
+    "index": 7,
+    "name": "Textured Single Breasted Blazer",
+    "brand": "Zara",
+    "price": "$502.48",
+    "picture": "./Images/Women/Clothings/Blazers/8.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66a12b7c05de859b5b34ac",
+    "index": 8,
+    "name": "Single Breasted Blazer",
+    "brand": "Stradivarius",
+    "price": "$768.56",
+    "picture": "./Images/Women/Clothings/Blazers/9.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66a12b3e386c09cd5863b7",
+    "index": 9,
+    "name": "PETITE Single Breasted Blazer",
+    "brand": "Marks & Spencer",
+    "price": "$630.86",
+    "picture": "./Images/Women/Clothings/Blazers/10.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a12bbcc338173e5ae304",
+    "index": 10,
+    "name": "Longline Double Breasted Blazer",
+    "brand": "Pull&Bear",
+    "price": "$600.31",
+    "picture": "./Images/Women/Clothings/Blazers/11.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a12bb3277ffccd790ee0",
+    "index": 11,
+    "name": "Tailored Button Cuff Blazer",
+    "brand": "Stradivarius",
+    "price": "$527.60",
+    "picture": "./Images/Women/Clothings/Blazers/12.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a12b50241f56b90a0bd5",
+    "index": 12,
+    "name": "Classic Single Breasted Blazer",
+    "brand": "Stradivarius",
+    "price": "$512.70",
+    "picture": "./Images/Women/Clothings/Blazers/13.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a12b0b8a3e8962ddba12",
+    "index": 13,
+    "name": "Ponte Blazer",
+    "brand": "Stradivarius",
+    "price": "$673.04",
+    "picture": "./Images/Women/Clothings/Blazers/14.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a12b721fa0edc1028724",
+    "index": 14,
+    "name": "Short Checked Blazer",
+    "brand": "Pull&Bear",
+    "price": "$729.12",
+    "picture": "./Images/Women/Clothings/Blazers/15.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  }
+]

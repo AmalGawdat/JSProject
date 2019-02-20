@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Picky</title>
+        <link rel="stylesheet" href="EcommerceCSS.css" type="text/css">
+        <style>
+            #filterDiv *{margin-bottom: 10px;}
+            #filterDiv input[type=button] {
+                margin-top: 10px;
+                border-radius: 0.5;
+                border: 1px solid darkcyan;
+                border-radius: 15px;
+                width: 140px;
+                height: 35px;
+                color: white;
+                background-color: darkcyan;
+                margin-right: 5px;
+                margin-left: 5px;
+            }
+            h1{
+                margin-top: -5px;
+                font-size: 40px;
+            }
+            #divProducts img{
+                margin-left: 20px;
+            }
+        </style>
+        <script src="jquery-3.3.1.min.js"></script>
+        <script src="Picky.js"></script>
+    </head>
+
+    <body>
+        <div id="signInDiv">
+            <form>
+                <input id="name" type="text" placeholder="Username" required name="name" pattern="[a-zA-Z]{1-16}">
+                <input id="password" type="password" placeholder="Password" required name="password" pattern="[]{1-16}">
+                <br><br>
+                <input id="signInBtn" type="submit" value="Login">
+                <br><br>
+                <a id="registerLink" href="RegisterPage.html"><u>Don't have an account? Register NOW!</u></a>
+            </form>
+        </div>
+        <br>
+        <div id="brandDiv">
+            <a href="HomePage.html">Picky</a>   
+        </div>
+    
+       
+        <ul id="categoriesList">
+
+            <li><a href="MainCategory.html?catid=WomenMainc4443f66107e83f86333">Women</a></li>        
+            <li><a href="MainCategory.html?catid=MenCol187634">Men</a></li>        
+            <li><a href="MainCategory.html?catid=5c66c4443f66107e83f86333">Kids</a></li>        
+        </ul>
+        <div id="filterDiv">
+        <label>Filter by Price, Up To $</label>
+        <input input id='priceWanted' type='number' pattern="[0-9]">
+        <br>
+        <label>Filter by Brand</label>
+        <input type='checkbox' id='chkBrandMS' value='Marks & Spencer'><label for="chkBrandMS">Marks & Spencer</label>
+        <input type='checkbox' id='chkBrandZ' value='Zara'><label for="chkBrandZ">Zara</label>
+        <input type='checkbox' id='chkBrandHM' value='H&M'><label for="chkBrandHM">H&M</label>
+        <input type='checkbox' id='chkBrandPB' value='Pull&Bear'><label for="chkBrandPB">Pull&Bear</label>
+        <input type='checkbox' id='chkBrandS' value='Stradivarius'><label for="chkBrandS">Stradivarius</label>
+        <br>
+        <input type='button' onclick='filterProducts()' value='Filter Products'>
+        <input type='button' onclick='clearClicked()' value='Clear Filter'>
+        </div>
+        <br>
+        <div id='divCategoryInfo'></div>
+        <div id='divProducts' class="Product row"></div>
+        
+        <script>
+            var chkBrandMS = document.getElementById('chkBrandMS');
+            var chkBrandZ = document.getElementById('chkBrandZ');
+            var chkBrandHM = document.getElementById('chkBrandHM');
+            var chkBrandPB = document.getElementById('chkBrandPB');
+            var chkBrandS = document.getElementById('chkBrandS');
+            var priceWanted = document.getElementById('priceWanted');
+            
+            function getFilteredProducts()
+            {
+                var checkedBrands = [];
+                var myProducts = [];
+                
+                if(chkBrandMS.checked)
+                    checkedBrands.push(chkBrandMS.value);
+                if(chkBrandZ.checked)
+                    checkedBrands.push(chkBrandZ.value);
+                if(chkBrandHM.checked)
+                    checkedBrands.push(chkBrandHM.value);
+                if(chkBrandPB.checked)
+                    checkedBrands.push(chkBrandPB.value);
+                if(chkBrandS.checked)
+                    checkedBrands.push(chkBrandS.value);
+                
+                var myPrice = parseInt(priceWanted.value);
+                myPrice = myPrice.toFixed(2);
+                if(checkedBrands.length == 0 && priceWanted.value.length == 0)
+                {
+                    myProducts = pageCategory.products;
+                    return myProducts;
+                }
+                for(product of pageCategory.products)
+                {
+                    var boolBrand = true;
+                    var boolPrice = true;
+                    if(checkedBrands.length != 0)
+                        boolBrand = false;
+                    if(priceWanted.value.length != 0)
+                        boolPrice = false
+                    console.log("boolBrand "+boolBrand);
+                    console.log("boolPrice "+boolPrice);
+                    
+                    var productPrice = parseFloat(product.price.substr(1));
+                    var productbrand = product.brand;
+                    if(boolBrand == false)
+                    {
+                        var checkBrand = checkedBrands.indexOf(productbrand);
+                        if(checkBrand != -1)
+                            boolBrand = true;
+                    }
+                    
+                    if(boolPrice == false)
+                    {
+                        if(myPrice >= productPrice)
+                            boolPrice = true;
+                    }
+                    
+                    console.log("boolBrand "+boolBrand);
+                    console.log("boolPrice "+boolPrice);
+                    if(boolBrand == true && boolPrice == true)
+                    {
+                        myProducts.push(product);
+                    }
+                    
+                }
+               
+                return myProducts;
+            }
+       
+            function filterProducts()
+            {
+                var products = getFilteredProducts();
+                fillProducts(products);
+            }
+            function clearClicked()
+            {
+                clearInputs();
+                fillProducts(pageCategory.products);
+            }
+            function clearInputs()
+            {
+                priceWanted.value="";
+                chkBrandMS.checked = false;
+                chkBrandZ.checked = false;
+                chkBrandHM.checked = false;
+                chkBrandPB.checked = false;
+                chkBrandS.checked = false;
+            }
+        </script>
+        
+                <div id="footer">
+          <div id="CU">
+                <p>Contact Us</p>
+                <img src="Images/Phone.png">
+                <span>+ 973 17507979</span>
+                <br>
+                <img src="Images/Mail.png">
+                <span>support@picky.com</span>
+            </div>
+          <div>
+                <p>Follow Us</p>
+                <ul>
+                        <li>
+                            <a target="_blank" href="//www.facebook.com/">
+                                <img id="FB" src = "Images/Facebook.png">
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="//www.twitter.com/">
+                                <img id="Twitter" src = "Images/Twitter.png">
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="//www.youtube.com/">
+                                <img id="YT" src = "Images/YouTube.png">
+                            </a>
+                        </li>
+                        <li>
+                            <a class="icon googleplus" target="_blank" href="//plus.google.com/">
+                                <img id="GP" src = "Images/GooglePlus.png">
+                            </a>
+                        </li>
+                </ul>
+            </div>    
+        </div>
+        
+        
+    </body>
+</html>

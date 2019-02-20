@@ -1,0 +1,582 @@
+[
+  {
+    "id": "5c66865a682796fc9ec88f39",
+    "index": 0,
+    "name": "Printed Flippy Slip Beach Dress",
+    "brand": "H&M",
+    "price": "$709.41",
+    "picture": "./Images/Women/Clothings/Dresses/1.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66865a1d92f628ff6ca6e6",
+    "index": 1,
+    "name": "Linen Rich Round Neck Shift Dress",
+    "brand": "Marks & Spencer",
+    "price": "$789.98",
+    "picture": "./Images/Women/Clothings/Dresses/2.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66865a8465af383a7f7e22",
+    "index": 2,
+    "name": "Striped Jersey Beach Dress",
+    "brand": "Pull&Bear",
+    "price": "$527.63",
+    "picture": "./Images/Women/Clothings/Dresses/3.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66865a3e2434a93d7c881d",
+    "index": 3,
+    "name": "Floral Print Waisted Dress",
+    "brand": "Marks & Spencer",
+    "price": "$438.53",
+    "picture": "./Images/Women/Clothings/Dresses/4.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66865aba88a6ed99b76a65",
+    "index": 4,
+    "name": "Spot Print Beach Wrap Dress",
+    "brand": "Marks & Spencer",
+    "price": "$642.54",
+    "picture": "./Images/Women/Clothings/Dresses/5.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66865a637924e74c309c40",
+    "index": 5,
+    "name": "Pure Cotton Long Sleeve Beach Dress",
+    "brand": "Pull&Bear",
+    "price": "$531.41",
+    "picture": "./Images/Women/Clothings/Dresses/6.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66865a74bd42fc93fc949f",
+    "index": 6,
+    "name": "Fit & Flare Midi Dress",
+    "brand": "H&M",
+    "price": "$431.32",
+    "picture": "./Images/Women/Clothings/Dresses/7.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66865a6bc43ba4d4a2e222",
+    "index": 7,
+    "name": "Textured Long Sleeve Swing Dress",
+    "brand": "Stradivarius",
+    "price": "$404.73",
+    "picture": "./Images/Women/Clothings/Dresses/8.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66865a5b2a0c125679d530",
+    "index": 8,
+    "name": "Cotton Rich Crinkle Swing Beach Dress",
+    "brand": "Pull&Bear",
+    "price": "$424.18",
+    "picture": "./Images/Women/Clothings/Dresses/9.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66865ac3feaa68cdd2f212",
+    "index": 9,
+    "name": "Striped Swing Beach Dress",
+    "brand": "H&M",
+    "price": "$748.48",
+    "picture": "./Images/Women/Clothings/Dresses/10.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66865a7329002c55b63c4a",
+    "index": 10,
+    "name": "Printed Waisted Midi Dress",
+    "brand": "Marks & Spencer",
+    "price": "$735.69",
+    "picture": "./Images/Women/Clothings/Dresses/11.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66865a1296738422eb1ea8",
+    "index": 11,
+    "name": "Polka Dot Knee Length Swing Dress",
+    "brand": "Stradivarius",
+    "price": "$606.52",
+    "picture": "./Images/Women/Clothings/Dresses/12.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66865a8010c8b5c1498fd7",
+    "index": 12,
+    "name": "Printed 3/4 Sleeve Shift Dress",
+    "brand": "Stradivarius",
+    "price": "$530.38",
+    "picture": "./Images/Women/Clothings/Dresses/13.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66865a6ec9a393152a34fd",
+    "index": 13,
+    "name": "Linen Rich Printed Shift Mini Dress",
+    "brand": "H&M",
+    "price": "$579.38",
+    "picture": "./Images/Women/Clothings/Dresses/14.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66865a8a4ddd598fdf75b4",
+    "index": 14,
+    "name": "Strappy Beach Dress",
+    "brand": "Pull&Bear",
+    "price": "$454.96",
+    "picture": "./Images/Women/Clothings/Dresses/15.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66865aa9bcd38b95e45c5f",
+    "index": 15,
+    "name": "Printed Long Sleeve Shirt Midi Dress",
+    "brand": "Zara",
+    "price": "$734.02",
+    "picture": "./Images/Women/Clothings/Dresses/16.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66865a5f43beea5e22bf5d",
+    "index": 16,
+    "name": "Linen Rich Floral Print Shift Mini Dress",
+    "brand": "H&M",
+    "price": "$665.75",
+    "picture": "./Images/Women/Clothings/Dresses/17.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66865ad8b260edacd72af2",
+    "index": 17,
+    "name": "Jersey Printed Fit & Flare Dress",
+    "brand": "Pull&Bear",
+    "price": "$575.00",
+    "picture": "./Images/Women/Clothings/Dresses/18.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66865a0b4a4bdb26b6bc64",
+    "index": 18,
+    "name": "PETITE Round Neck Shift Dress",
+    "brand": "H&M",
+    "price": "$480.75",
+    "picture": "./Images/Women/Clothings/Dresses/19.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66865a724f740be056ce7b",
+    "index": 19,
+    "name": "Floral Print Long Sleeve Relaxed Mini Dress",
+    "brand": "H&M",
+    "price": "$484.06",
+    "picture": "./Images/Women/Clothings/Dresses/20.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  }
+]

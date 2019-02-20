@@ -1,0 +1,582 @@
+[
+  {
+    "id": "5c668f6ee16f3a365930f911",
+    "index": 0,
+    "name": "Checked A-Line Mini Skirt",
+    "brand": "Marks & Spencer",
+    "price": "$565.01",
+    "picture": "./Images/Women/Clothings/Skirts/1.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668f6e1fdbcc4bf1f851e5",
+    "index": 1,
+    "name": "Checked Pencil Mini Skirt",
+    "brand": "Stradivarius",
+    "price": "$496.56",
+    "picture": "./Images/Women/Clothings/Skirts/2.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668f6ec288b1ffcca423b0",
+    "index": 2,
+    "name": "Cotton Rich Checked A-Line Mini Skirt",
+    "brand": "Stradivarius",
+    "price": "$308.10",
+    "picture": "./Images/Women/Clothings/Skirts/3.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668f6e16f920f8a21ef495",
+    "index": 3,
+    "name": "Checked Pencil Mini Skirt",
+    "brand": "Stradivarius",
+    "price": "$311.51",
+    "picture": "./Images/Women/Clothings/Skirts/4.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c668f6e7492aeafc35ed7c2",
+    "index": 4,
+    "name": "Textured Fringe Detail Wrap Mini Skirt",
+    "brand": "Pull&Bear",
+    "price": "$392.49",
+    "picture": "./Images/Women/Clothings/Skirts/5.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668f6edbc6d0821f8a9699",
+    "index": 5,
+    "name": "Checked A-Line Mini Skirt",
+    "brand": "Zara",
+    "price": "$322.15",
+    "picture": "./Images/Women/Clothings/Skirts/6.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c668f6e115a382303526b6d",
+    "index": 6,
+    "name": "Button Front A-Line Mini Skirt",
+    "brand": "H&M",
+    "price": "$506.84",
+    "picture": "./Images/Women/Clothings/Skirts/7.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c668f6e584805cb4cb9840c",
+    "index": 7,
+    "name": "Cotton Blend Checked Pencil Skirt",
+    "brand": "Pull&Bear",
+    "price": "$329.96",
+    "picture": "./Images/Women/Clothings/Skirts/8.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668f6e643b33d60842f682",
+    "index": 8,
+    "name": "Jersey Pencil Midi Skirt",
+    "brand": "Marks & Spencer",
+    "price": "$561.66",
+    "picture": "./Images/Women/Clothings/Skirts/9.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c668f6e6a58748fe15bf154",
+    "index": 9,
+    "name": "Textured Jersey Pencil Midi Skirt",
+    "brand": "Stradivarius",
+    "price": "$416.02",
+    "picture": "./Images/Women/Clothings/Skirts/10.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668f6ed46228e7d0cdedef",
+    "index": 10,
+    "name": "Textured Pencil Skirt",
+    "brand": "Marks & Spencer",
+    "price": "$539.16",
+    "picture": "./Images/Women/Clothings/Skirts/11.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c668f6ea7514155e8225ec9",
+    "index": 11,
+    "name": "Checked Pencil Midi Skirt",
+    "brand": "Pull&Bear",
+    "price": "$478.09",
+    "picture": "./Images/Women/Clothings/Skirts/12.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c668f6e4cbf4397db4397c7",
+    "index": 12,
+    "name": "Animal Print Pleated Midi Skirt",
+    "brand": "Zara",
+    "price": "$428.54",
+    "picture": "./Images/Women/Clothings/Skirts/13.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668f6e4ac2b01ff225d8b3",
+    "index": 13,
+    "name": "Jersey Pleated Midi Skirt",
+    "brand": "H&M",
+    "price": "$554.57",
+    "picture": "./Images/Women/Clothings/Skirts/14.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668f6e9747795b363986d9",
+    "index": 14,
+    "name": "Polka Dot Jersey Pleated Midi Skirt",
+    "brand": "Pull&Bear",
+    "price": "$315.39",
+    "picture": "./Images/Women/Clothings/Skirts/15.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c668f6ef0a2a7ac7cf99718",
+    "index": 15,
+    "name": "Suede Belted A-Line Mini Skirt",
+    "brand": "Pull&Bear",
+    "price": "$488.13",
+    "picture": "./Images/Women/Clothings/Skirts/16.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668f6e039708abb3a2a60e",
+    "index": 16,
+    "name": "Linen Rich A-Line Skirt",
+    "brand": "Pull&Bear",
+    "price": "$400.72",
+    "picture": "./Images/Women/Clothings/Skirts/17.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c668f6e725fe94aa8a5726c",
+    "index": 17,
+    "name": "Jersey Pencil Maxi Skirt",
+    "brand": "H&M",
+    "price": "$313.49",
+    "picture": "./Images/Women/Clothings/Skirts/18.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c668f6eced26af9388054d3",
+    "index": 18,
+    "name": "A-Line Midi Skirt",
+    "brand": "H&M",
+    "price": "$419.50",
+    "picture": "./Images/Women/Clothings/Skirts/19.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668f6e17544b2314436b6c",
+    "index": 19,
+    "name": "Tailored Fit Pencil Skirt",
+    "brand": "Stradivarius",
+    "price": "$591.94",
+    "picture": "./Images/Women/Clothings/Skirts/20.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  }
+]

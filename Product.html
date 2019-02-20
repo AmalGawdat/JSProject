@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Picky</title>
+        <link rel="stylesheet" href="Picky.css" type="text/css">
+        <script src="jquery-3.3.1.min.js"></script>
+        <script src="Picky.js"></script>
+        <style>
+            #finalProductDiv img
+                {height:auto; width:400px;}
+            #addCartBtn {
+                margin-top: 10px;
+                border-radius: 0.5;
+                border: 1px solid darkcyan;
+                border-radius: 15px;
+                width: 300px;
+                height: 35px;
+                color: white;
+                background-color: darkcyan;
+                margin-right: 5px;
+                margin-left: 40px;
+            }
+
+            #sizeDiv label
+            {
+                border-radius: 1;
+                border: 1px solid darkcyan;
+                border-radius: 15px;
+                margin-right: 5px;
+                margin-left: 5px;
+            }
+
+            #sizeDiv input[type=button]
+            {
+                border-radius: 1;
+                border: 1px solid darkcyan;
+                border-radius: 15px;
+                margin-right: 5px;
+                margin-left: 5px;
+                height: 25px;
+                background-color: beige;
+                margin-bottom: 10px;
+                font-size: 15px;
+            }
+            #sizeDiv button
+            {
+                border-radius: 1;
+                border: 1px solid darkcyan;
+                border-radius: 15px;
+                margin-right: 5px;
+                margin-left: 5px;
+                height: 25px;
+                background-color: beige;
+                margin-bottom: 10px;
+                font-size: 15px;
+            }
+           
+            #sizeDiv input[type=button]:hover
+            {
+                background-color: darkcyan;
+            }
+            #sizeDiv disabled:hover
+            {
+                background-color: beige;
+            }
+            #sizeDiv input[type=button] : target
+            {
+                background-color: darkcyan;
+            }
+            #bigInfoFinalProDiv
+            {
+                position: absolute;
+                left: 500px;
+                top: 200px;
+            }
+            .qnt
+            {
+                font-size: 18px;
+            }
+            select
+            {
+                margin-left: 15px;
+            }
+            #selectqnt
+            {
+                background-color: beige;
+            }
+            
+        </style>
+    </head>
+
+    <body>
+        
+        <div id="signInDiv">
+            <form>
+                <input id="name" type="text" placeholder="Username" required name="name" pattern="[a-zA-Z]{1-16}">
+                <input id="password" type="password" placeholder="Password" required name="password" pattern="[]{1-16}">
+                <br><br>
+                <input id="signInBtn" type="submit" value="Login">
+                <br><br>
+                <a id="registerLink" href="RegisterPage.html"><u>Don't have an account? Register NOW!</u></a>
+            </form>
+        </div>
+        <br>
+        <div id="brandDiv">
+            <a href="HomePage.html">Picky</a>   
+        </div>
+         
+       
+        <ul id="categoriesList">
+
+            <li><a href="MainCategory.html?catid=WomenMainc4443f66107e83f86333">Women</a></li>        
+            <li><a href="MainCategory.html?catid=MenCol187634">Men</a></li>        
+            <li><a href="MainCategory.html?catid=5c66c4443f66107e83f86333">Kids</a></li>        
+        </ul>
+
+        <div id="finalProductDiv"></div>
+        <div id="bigInfoFinalProDiv">
+        <div id="finalProdInfoDiv"></div>
+        <div id="sizeDiv"></div>
+        <label class="qnt">Quantity</label>
+        <select class="qnt" id="selectqnt">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+            <option value="11">11</option>
+            <option value="12">12</option>
+        </select>
+        <input id='addCartBtn' type='button' value='Add to Cart'>
+        </div>
+        
+                <div id="footer">
+          <div id="CU">
+                <p>Contact Us</p>
+                <img src="Images/Phone.png">
+                <span>+ 973 17507979</span>
+                <br>
+                <img src="Images/Mail.png">
+                <span>support@picky.com</span>
+            </div>
+          <div>
+                <p>Follow Us</p>
+                <ul>
+                        <li>
+                            <a target="_blank" href="//www.facebook.com/">
+                                <img id="FB" src = "Images/Facebook.png">
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="//www.twitter.com/">
+                                <img id="Twitter" src = "Images/Twitter.png">
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="//www.youtube.com/">
+                                <img id="YT" src = "Images/YouTube.png">
+                            </a>
+                        </li>
+                        <li>
+                            <a class="icon googleplus" target="_blank" href="//plus.google.com/">
+                                <img id="GP" src = "Images/GooglePlus.png">
+                            </a>
+                        </li>
+                </ul>
+            </div>    
+        </div>
+        <script>
+            
+        window.addEventListener('load' , function(){
+
+ clickedbtn = document.getElementById('sizeDiv');
+          
+            
+    clickedbtn.addEventListener('click',function(e){
+        if(  e.target.type == "button")
+        {
+            if(e.target.style.backgroundColor=="beige")
+                {
+                Array.from(  document.querySelectorAll(".clickedBtn")).forEach(b => b.style.backgroundColor="beige");
+                e.target.style.backgroundColor="darkcyan";
+                }
+            else
+                {
+                Array.from(  document.querySelectorAll(".clickedBtn")).forEach(b => b.style.backgroundColor="beige");
+                e.target.style.backgroundColor="beige";
+                }
+        }
+    })
+        })
+        </script>
+    </body>
+</html>

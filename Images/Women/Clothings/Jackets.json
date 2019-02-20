@@ -1,0 +1,582 @@
+[
+  {
+    "id": "5c668b962330e1ddf6e8ffb1",
+    "index": 0,
+    "name": "Quilted & Padded Jacket",
+    "brand": "Stradivarius",
+    "price": "$701.72",
+    "picture": "./Images/Women/Clothings/Jackets/1.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c668b9682a94e015c58a440",
+    "index": 1,
+    "name": "Padded Jacket",
+    "brand": "Pull&Bear",
+    "price": "$642.55",
+    "picture": "./Images/Women/Clothings/Jackets/2.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c668b963f979063dcc12cc8",
+    "index": 2,
+    "name": "Lightweight Down & Feather Jacket",
+    "brand": "Pull&Bear",
+    "price": "$840.05",
+    "picture": "./Images/Women/Clothings/Jackets/3.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668b96cae37638872fc0e8",
+    "index": 3,
+    "name": "Padded Jacket",
+    "brand": "Stradivarius",
+    "price": "$660.64",
+    "picture": "./Images/Women/Clothings/Jackets/4.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668b96c1d562716146930b",
+    "index": 4,
+    "name": "Lightweight Down & Feather Jacket",
+    "brand": "H&M",
+    "price": "$837.93",
+    "picture": "./Images/Women/Clothings/Jackets/5.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668b961c42f451a7d163e7",
+    "index": 5,
+    "name": "Padded Jacket",
+    "brand": "Stradivarius",
+    "price": "$695.94",
+    "picture": "./Images/Women/Clothings/Jackets/6.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c668b9698b8c29ff81c8e32",
+    "index": 6,
+    "name": "Padded Jacket",
+    "brand": "Stradivarius",
+    "price": "$808.61",
+    "picture": "./Images/Women/Clothings/Jackets/7.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668b9661608e6e663a8437",
+    "index": 7,
+    "name": "Reversible Padded Jacket",
+    "brand": "Pull&Bear",
+    "price": "$638.98",
+    "picture": "./Images/Women/Clothings/Jackets/8.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668b96bf81ffaf3c80507e",
+    "index": 8,
+    "name": "Faux Fur Duffle Coat",
+    "brand": "H&M",
+    "price": "$500.25",
+    "picture": "./Images/Women/Clothings/Jackets/9.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c668b961089238f31bd7cc7",
+    "index": 9,
+    "name": "Funnel Neck Coat",
+    "brand": "Stradivarius",
+    "price": "$918.73",
+    "picture": "./Images/Women/Clothings/Jackets/10.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668b964b8bd437ed85ab00",
+    "index": 10,
+    "name": "Checked Double Breasted Coat",
+    "brand": "Pull&Bear",
+    "price": "$754.21",
+    "picture": "./Images/Women/Clothings/Jackets/11.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668b96e4a558cdc6ed6ce3",
+    "index": 11,
+    "name": "Textured Borg Biker Jacket",
+    "brand": "Marks & Spencer",
+    "price": "$832.13",
+    "picture": "./Images/Women/Clothings/Jackets/12.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668b96e08a5d2a3e483eac",
+    "index": 12,
+    "name": "Hooded Faux Fur Jacket",
+    "brand": "H&M",
+    "price": "$631.72",
+    "picture": "./Images/Women/Clothings/Jackets/13.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668b9612ee61ad42f97039",
+    "index": 13,
+    "name": "Quilted & Padded Jacket",
+    "brand": "Pull&Bear",
+    "price": "$834.81",
+    "picture": "./Images/Women/Clothings/Jackets/14.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c668b96fd7007c417418c83",
+    "index": 14,
+    "name": "Wool Blend Single Breasted Coat",
+    "brand": "Stradivarius",
+    "price": "$993.07",
+    "picture": "./Images/Women/Clothings/Jackets/15.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668b96a6169fb984e46fc5",
+    "index": 15,
+    "name": "Padded Jacket",
+    "brand": "Pull&Bear",
+    "price": "$827.48",
+    "picture": "./Images/Women/Clothings/Jackets/16.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668b96112e009afb5a4d58",
+    "index": 16,
+    "name": "Checked Patch Pocket Coat",
+    "brand": "Zara",
+    "price": "$548.11",
+    "picture": "./Images/Women/Clothings/Jackets/17.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668b96d6974ab6f8706724",
+    "index": 17,
+    "name": "Faux Leather Biker Jacket",
+    "brand": "Pull&Bear",
+    "price": "$656.00",
+    "picture": "./Images/Women/Clothings/Jackets/18.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c668b96222eea38be9146dd",
+    "index": 18,
+    "name": "Checked Double Breasted Trench Coat",
+    "brand": "Pull&Bear",
+    "price": "$523.62",
+    "picture": "./Images/Women/Clothings/Jackets/19.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c668b968fedfd611e3645f3",
+    "index": 19,
+    "name": "Jacquard Parka",
+    "brand": "Stradivarius",
+    "price": "$890.43",
+    "picture": "./Images/Women/Clothings/Jackets/20.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  }
+]

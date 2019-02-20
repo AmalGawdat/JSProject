@@ -1,0 +1,582 @@
+[
+  {
+    "id": "5c66a2c62e952dbd59df6341",
+    "index": 0,
+    "name": "Cotton Slim 7/8th Trousers",
+    "brand": "Zara",
+    "price": "$711.85",
+    "picture": "./Images/Women/Clothings/Trousers/1.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c656259842378c938c",
+    "index": 1,
+    "name": "Ponte Wide Leg 7/8th Trousers",
+    "brand": "Marks & Spencer",
+    "price": "$735.14",
+    "picture": "./Images/Women/Clothings/Trousers/2.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c65fc21227eeb7dfa8",
+    "index": 2,
+    "name": "Wide Leg Ankle Grazer Trousers",
+    "brand": "Stradivarius",
+    "price": "$609.06",
+    "picture": "./Images/Women/Clothings/Trousers/3.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c67e82a1d15f2471d9",
+    "index": 3,
+    "name": "Wide Leg Ankle Grazer Trousers",
+    "brand": "Stradivarius",
+    "price": "$627.43",
+    "picture": "./Images/Women/Clothings/Trousers/4.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c63fcb4b82c11b48db",
+    "index": 4,
+    "name": "Slim Leg Ankle Grazer Trousers",
+    "brand": "Zara",
+    "price": "$450.88",
+    "picture": "./Images/Women/Clothings/Trousers/5.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c6e407814fe49f2647",
+    "index": 5,
+    "name": "Checked Slim Ankle Grazer Trousers",
+    "brand": "H&M",
+    "price": "$505.76",
+    "picture": "./Images/Women/Clothings/Trousers/6.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c6411b0212834fc0ec",
+    "index": 6,
+    "name": "Checked Straight Leg Ankle Grazer Trousers",
+    "brand": "H&M",
+    "price": "$487.65",
+    "picture": "./Images/Women/Clothings/Trousers/7.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c6ccc6691040d5c3de",
+    "index": 7,
+    "name": "Side Stripe Slim Ankle Grazer Trousers",
+    "brand": "Marks & Spencer",
+    "price": "$424.82",
+    "picture": "./Images/Women/Clothings/Trousers/8.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c6c124e68568172c93",
+    "index": 8,
+    "name": "Ponte Wide Leg Trousers",
+    "brand": "Zara",
+    "price": "$611.20",
+    "picture": "./Images/Women/Clothings/Trousers/9.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c6a4c3e5238f700446",
+    "index": 9,
+    "name": "Cotton Rich Wide Leg Cropped Trousers",
+    "brand": "Marks & Spencer",
+    "price": "$717.32",
+    "picture": "./Images/Women/Clothings/Trousers/10.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c6a8655717b9ec48b6",
+    "index": 10,
+    "name": "Checked Wide Leg Ankle Grazer Trousers",
+    "brand": "Marks & Spencer",
+    "price": "$716.73",
+    "picture": "./Images/Women/Clothings/Trousers/11.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c6d432fed6f87c9fb5",
+    "index": 11,
+    "name": "Wide Leg Culottes",
+    "brand": "Zara",
+    "price": "$782.85",
+    "picture": "./Images/Women/Clothings/Trousers/12.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c65c1543952fc8116f",
+    "index": 12,
+    "name": "Cotton Modal Slim Leg Ankle Grazer Trousers",
+    "brand": "H&M",
+    "price": "$763.68",
+    "picture": "./Images/Women/Clothings/Trousers/13.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c6e587843d9aae8bb2",
+    "index": 13,
+    "name": "Textured Ankle Grazer Trousers",
+    "brand": "Stradivarius",
+    "price": "$665.29",
+    "picture": "./Images/Women/Clothings/Trousers/14.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c6c12a9f84bfb05065",
+    "index": 14,
+    "name": "Side Stripe Slim Leg Ankle Grazer Trousers",
+    "brand": "Pull&Bear",
+    "price": "$555.23",
+    "picture": "./Images/Women/Clothings/Trousers/15.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c608027caf1c292026",
+    "index": 15,
+    "name": "Textured Slim Leg Ankle Grazer Trousers",
+    "brand": "H&M",
+    "price": "$594.86",
+    "picture": "./Images/Women/Clothings/Trousers/16.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c612b8485be31a95c5",
+    "index": 16,
+    "name": "High Waist Ankle Grazer Joggers",
+    "brand": "Stradivarius",
+    "price": "$691.33",
+    "picture": "./Images/Women/Clothings/Trousers/17.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c627a486f0a19f3dd8",
+    "index": 17,
+    "name": "Bootcut Leg Trousers",
+    "brand": "Pull&Bear",
+    "price": "$537.43",
+    "picture": "./Images/Women/Clothings/Trousers/18.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c615eddc4a3cd52475",
+    "index": 18,
+    "name": "Checked Ankle Grazer Leggings",
+    "brand": "H&M",
+    "price": "$464.00",
+    "picture": "./Images/Women/Clothings/Trousers/19.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66a2c62950057700fdc3c0",
+    "index": 19,
+    "name": "CURVE Straight Leg Joggers",
+    "brand": "Zara",
+    "price": "$643.52",
+    "picture": "./Images/Women/Clothings/Trousers/20.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "id": "5c66bc378f119eef4f79604e",
+    "index": 0,
+    "name": "Pure Cotton French Portrait Straight T-Shirt",
+    "brand": "Pull&Bear",
+    "price": "$350.39",
+    "picture": "./Images/Women/Clothings/T-shirts/1.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66bc372078bbcf7ac9a313",
+    "index": 1,
+    "name": "Pure Cotton Straight Fit T-Shirt",
+    "brand": "Zara",
+    "price": "$314.22",
+    "picture": "./Images/Women/Clothings/T-shirts/2.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bc378911b21549ddb7e7",
+    "index": 2,
+    "name": "Round Neck Short Sleeve Fitted T-Shirt",
+    "brand": "H&M",
+    "price": "$345.91",
+    "picture": "./Images/Women/Clothings/T-shirts/3.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66bc37bc052642d1516ba1",
+    "index": 3,
+    "name": "Pure Cotton V-Neck Regular Fit T-Shirt",
+    "brand": "Stradivarius",
+    "price": "$237.72",
+    "picture": "./Images/Women/Clothings/T-shirts/4.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bc37e7c6bcf73a949f34",
+    "index": 4,
+    "name": "Pure Cotton Boat Neck Regular Fit T-Shirt",
+    "brand": "H&M",
+    "price": "$219.58",
+    "picture": "./Images/Women/Clothings/T-shirts/5.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bc37db93787fa00ef190",
+    "index": 5,
+    "name": "Pure Cotton Mon Amour Straight Fit T-Shirt",
+    "brand": "H&M",
+    "price": "$364.23",
+    "picture": "./Images/Women/Clothings/T-shirts/6.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bc376b2e863b9b96b71a",
+    "index": 6,
+    "name": "Pure Cotton Caravan Straight Fit T-Shirt",
+    "brand": "H&M",
+    "price": "$318.47",
+    "picture": "./Images/Women/Clothings/T-shirts/7.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bc3745a2af1f18aba589",
+    "index": 7,
+    "name": "Pure Cotton Copenhagen Straight Fit T-Shirt",
+    "brand": "Stradivarius",
+    "price": "$304.77",
+    "picture": "./Images/Women/Clothings/T-shirts/8.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66bc37e722a14d0ca45b17",
+    "index": 8,
+    "name": "Pure Cotton California Straight Fit T-Shirt",
+    "brand": "Stradivarius",
+    "price": "$381.58",
+    "picture": "./Images/Women/Clothings/T-shirts/9.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66bc37008b55a6855bc4f0",
+    "index": 9,
+    "name": "Embroidered Motif Round Neck T-Shirt",
+    "brand": "Pull&Bear",
+    "price": "$337.34",
+    "picture": "./Images/Women/Clothings/T-shirts/10.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bc371ca6d37fa6ead5c1",
+    "index": 10,
+    "name": "Pure Cotton Contrast Print Straight T-Shirt",
+    "brand": "Zara",
+    "price": "$364.89",
+    "picture": "./Images/Women/Clothings/T-shirts/11.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bc37dbd55f6074eb84fa",
+    "index": 11,
+    "name": "Pure Cotton San Fran Straight Fit T-Shirt",
+    "brand": "Marks & Spencer",
+    "price": "$225.99",
+    "picture": "./Images/Women/Clothings/T-shirts/12.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66bc3727c5316baee0125a",
+    "index": 12,
+    "name": "Pure Cotton Yellow Hills Straight Fit T-Shirt",
+    "brand": "Stradivarius",
+    "price": "$277.97",
+    "picture": "./Images/Women/Clothings/T-shirts/13.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66bc373b36e524482c2251",
+    "index": 13,
+    "name": "Pure Cotton Paris Print Straight Fit T-shirt",
+    "brand": "Stradivarius",
+    "price": "$209.32",
+    "picture": "./Images/Women/Clothings/T-shirts/14.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bc37f7570ab8d4a0c9b3",
+    "index": 14,
+    "name": "Pure Cotton Carpe Diem Straight Fit T-Shirt",
+    "brand": "Zara",
+    "price": "$286.12",
+    "picture": "./Images/Women/Clothings/T-shirts/15.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bc37540488101e7d9ab5",
+    "index": 15,
+    "name": "Pure Cotton Roma Straight Fit T-shirt",
+    "brand": "Zara",
+    "price": "$350.84",
+    "picture": "./Images/Women/Clothings/T-shirts/16.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bc37966e2633caf47520",
+    "index": 16,
+    "name": "Pure Cotton Friday Straight Fit T-Shirt",
+    "brand": "Pull&Bear",
+    "price": "$385.16",
+    "picture": "./Images/Women/Clothings/T-shirts/17.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bc37071afae65c7da28c",
+    "index": 17,
+    "name": "Pure Cotton Striped Paris Straight Fit T-Shirt",
+    "brand": "Marks & Spencer",
+    "price": "$336.04",
+    "picture": "./Images/Women/Clothings/T-shirts/18.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c66bc37252f7f6a66a8ed68",
+    "index": 18,
+    "name": "Pure Cotton Revien Straight Fit T-Shirt",
+    "brand": "Pull&Bear",
+    "price": "$289.62",
+    "picture": "./Images/Women/Clothings/T-shirts/19.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bc370b55d777ab897e8d",
+    "index": 19,
+    "name": "Pure Cotton Ciao Bella Straight Fit T-Shirt",
+    "brand": "Marks & Spencer",
+    "price": "$306.43",
+    "picture": "./Images/Women/Clothings/T-shirts/20.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  }
+]

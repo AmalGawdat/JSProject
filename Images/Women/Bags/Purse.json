@@ -1,0 +1,56 @@
+[
+  {
+    "id": "5c66d23b3eb6e91cdf0276df",
+    "index": 0,
+    "name": "Leather Foldover Purse",
+    "brand": "Stradivarius",
+    "price": "$248.12",
+    "picture": "./Images/Women/Bags/Purse/1.jpg",
+    "Available": true
+  },
+  {
+    "id": "5c66d23bce0f7b4dc47de944",
+    "index": 1,
+    "name": "Leather Foldover Purse",
+    "brand": "H&M",
+    "price": "$236.84",
+    "picture": "./Images/Women/Bags/Purse/2.jpg",
+    "Available": false
+  },
+  {
+    "id": "5c66d23bd7ffc681e6c6f872",
+    "index": 2,
+    "name": "Leather Coin Purse",
+    "brand": "H&M",
+    "price": "$233.67",
+    "picture": "./Images/Women/Bags/Purse/3.jpg",
+    "Available": true
+  },
+  {
+    "id": "5c66d23b17c0ca20a7df8465",
+    "index": 3,
+    "name": "Leather Soft Studded Purse",
+    "brand": "H&M",
+    "price": "$260.84",
+    "picture": "./Images/Women/Bags/Purse/4.jpg",
+    "Available": true
+  },
+  {
+    "id": "5c66d23b2cb019e5c44ad1e6",
+    "index": 4,
+    "name": "Leather Foldout Purse",
+    "brand": "Stradivarius",
+    "price": "$252.17",
+    "picture": "./Images/Women/Bags/Purse/5.jpg",
+    "Available": true
+  },
+  {
+    "id": "5c66d23b492d8c33dc2806c5",
+    "index": 5,
+    "name": "Leather Zip Around Purse",
+    "brand": "Zara",
+    "price": "$216.29",
+    "picture": "./Images/Women/Bags/Purse/6.jpg",
+    "Available": true
+  }
+]

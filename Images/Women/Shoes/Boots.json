@@ -1,0 +1,642 @@
+[
+  {
+    "id": "5c66bfa554f5fdba1a3a371b",
+    "index": 0,
+    "name": "Leather Block Heel Chelsea Ankle Boots",
+    "brand": "Marks & Spencer",
+    "price": "$556.79",
+    "picture": "./Images/Women/Shoes/Boots/1.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": true
+      },
+      {
+        "38": false
+      },
+      {
+        "39": false
+      },
+      {
+        "40": true
+      },
+      {
+        "41": false
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa578cf20cd6c667ace",
+    "index": 1,
+    "name": "Chelsea Western Ankle Boots",
+    "brand": "Marks & Spencer",
+    "price": "$740.86",
+    "picture": "./Images/Women/Shoes/Boots/2.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": true
+      },
+      {
+        "38": true
+      },
+      {
+        "39": false
+      },
+      {
+        "40": true
+      },
+      {
+        "41": false
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa507470fc3f88f8fde",
+    "index": 2,
+    "name": "Chelsea Western Ankle Boots",
+    "brand": "Marks & Spencer",
+    "price": "$653.47",
+    "picture": "./Images/Women/Shoes/Boots/3.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": true
+      },
+      {
+        "38": true
+      },
+      {
+        "39": false
+      },
+      {
+        "40": true
+      },
+      {
+        "41": true
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa5c97007dba6666199",
+    "index": 3,
+    "name": "Block Heel Western Boots",
+    "brand": "H&M",
+    "price": "$535.13",
+    "picture": "./Images/Women/Shoes/Boots/4.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": true
+      },
+      {
+        "38": true
+      },
+      {
+        "39": false
+      },
+      {
+        "40": false
+      },
+      {
+        "41": false
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa5d7d8416f6f80ec1a",
+    "index": 4,
+    "name": "Wide Fit Side Buckle Ankle Boots",
+    "brand": "Marks & Spencer",
+    "price": "$762.44",
+    "picture": "./Images/Women/Shoes/Boots/5.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": false
+      },
+      {
+        "38": false
+      },
+      {
+        "39": false
+      },
+      {
+        "40": true
+      },
+      {
+        "41": true
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa5b6f244900afcc12f",
+    "index": 5,
+    "name": "Leather Chelsea Ankle Boots",
+    "brand": "Pull&Bear",
+    "price": "$530.43",
+    "picture": "./Images/Women/Shoes/Boots/6.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": true
+      },
+      {
+        "38": false
+      },
+      {
+        "39": false
+      },
+      {
+        "40": true
+      },
+      {
+        "41": true
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa58da9a7f08352f399",
+    "index": 6,
+    "name": "Leather Ankle Boots",
+    "brand": "Stradivarius",
+    "price": "$714.16",
+    "picture": "./Images/Women/Shoes/Boots/7.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": true
+      },
+      {
+        "38": true
+      },
+      {
+        "39": false
+      },
+      {
+        "40": false
+      },
+      {
+        "41": true
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa5a86649bce0b641b1",
+    "index": 7,
+    "name": "Lace-up Ankle Boots",
+    "brand": "H&M",
+    "price": "$721.13",
+    "picture": "./Images/Women/Shoes/Boots/8.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": false
+      },
+      {
+        "38": true
+      },
+      {
+        "39": true
+      },
+      {
+        "40": false
+      },
+      {
+        "41": false
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa549eecc570da8d023",
+    "index": 8,
+    "name": "Wide Fit Chelsea Ankle Boots",
+    "brand": "Pull&Bear",
+    "price": "$663.31",
+    "picture": "./Images/Women/Shoes/Boots/9.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": false
+      },
+      {
+        "38": false
+      },
+      {
+        "39": true
+      },
+      {
+        "40": true
+      },
+      {
+        "41": true
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa520b6d11e50490f09",
+    "index": 9,
+    "name": "Wide Fit Leather Ruched Ankle Boots",
+    "brand": "Stradivarius",
+    "price": "$612.13",
+    "picture": "./Images/Women/Shoes/Boots/10.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": false
+      },
+      {
+        "38": false
+      },
+      {
+        "39": true
+      },
+      {
+        "40": true
+      },
+      {
+        "41": true
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa5ddb05b370bdf91fe",
+    "index": 10,
+    "name": "Faux Fur Hiker Ankle Boots",
+    "brand": "H&M",
+    "price": "$718.74",
+    "picture": "./Images/Women/Shoes/Boots/11.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": true
+      },
+      {
+        "38": false
+      },
+      {
+        "39": false
+      },
+      {
+        "40": true
+      },
+      {
+        "41": false
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa539ed42000ef0537d",
+    "index": 11,
+    "name": "Wide Fit Suede Lace-up Ankle Boots",
+    "brand": "Stradivarius",
+    "price": "$666.10",
+    "picture": "./Images/Women/Shoes/Boots/12.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": true
+      },
+      {
+        "38": true
+      },
+      {
+        "39": false
+      },
+      {
+        "40": false
+      },
+      {
+        "41": true
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa57ddb5a45d97d1e02",
+    "index": 12,
+    "name": "Leather Ankle Boots",
+    "brand": "Pull&Bear",
+    "price": "$624.70",
+    "picture": "./Images/Women/Shoes/Boots/13.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": false
+      },
+      {
+        "38": true
+      },
+      {
+        "39": false
+      },
+      {
+        "40": false
+      },
+      {
+        "41": false
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa5b824a3ef405545e6",
+    "index": 13,
+    "name": "Almond Toe Ankle Boots",
+    "brand": "Zara",
+    "price": "$525.80",
+    "picture": "./Images/Women/Shoes/Boots/14.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": true
+      },
+      {
+        "38": true
+      },
+      {
+        "39": true
+      },
+      {
+        "40": false
+      },
+      {
+        "41": true
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa54ebb6d8d84f5cf4a",
+    "index": 14,
+    "name": "Elastic Back Rider Knee Boots",
+    "brand": "Stradivarius",
+    "price": "$544.35",
+    "picture": "./Images/Women/Shoes/Boots/15.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": true
+      },
+      {
+        "38": false
+      },
+      {
+        "39": false
+      },
+      {
+        "40": false
+      },
+      {
+        "41": false
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa5350d6cc6220e0fd9",
+    "index": 15,
+    "name": "Leather Block Heel Strap Knee Boots",
+    "brand": "Stradivarius",
+    "price": "$535.48",
+    "picture": "./Images/Women/Shoes/Boots/16.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": true
+      },
+      {
+        "38": true
+      },
+      {
+        "39": true
+      },
+      {
+        "40": true
+      },
+      {
+        "41": true
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa5ba5f79da91c435a2",
+    "index": 16,
+    "name": "Faux Fur Buckle Knee Boots",
+    "brand": "Pull&Bear",
+    "price": "$776.48",
+    "picture": "./Images/Women/Shoes/Boots/17.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": true
+      },
+      {
+        "38": true
+      },
+      {
+        "39": true
+      },
+      {
+        "40": true
+      },
+      {
+        "41": false
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa5f3f63ff2b10b602c",
+    "index": 17,
+    "name": "Side Buckle Ankle Boots",
+    "brand": "Pull&Bear",
+    "price": "$626.88",
+    "picture": "./Images/Women/Shoes/Boots/18.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": false
+      },
+      {
+        "38": false
+      },
+      {
+        "39": true
+      },
+      {
+        "40": false
+      },
+      {
+        "41": true
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa5bd11efbeac513294",
+    "index": 18,
+    "name": "Leather Block Heel Shoe Boots",
+    "brand": "Pull&Bear",
+    "price": "$577.75",
+    "picture": "./Images/Women/Shoes/Boots/19.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": false
+      },
+      {
+        "38": true
+      },
+      {
+        "39": false
+      },
+      {
+        "40": false
+      },
+      {
+        "41": false
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66bfa5f6c4ba60c901d215",
+    "index": 19,
+    "name": "Wide Fit Leather Stitch Detail Knee Boots",
+    "brand": "Pull&Bear",
+    "price": "$522.05",
+    "picture": "./Images/Women/Shoes/Boots/20.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": true
+      },
+      {
+        "38": false
+      },
+      {
+        "39": true
+      },
+      {
+        "40": true
+      },
+      {
+        "41": true
+      },
+      {
+        "42": true
+      }
+    ]
+  }
+]

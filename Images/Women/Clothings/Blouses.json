@@ -1,0 +1,582 @@
+[
+  {
+    "id": "5c6695a10369ba80e5bbd4c3",
+    "index": 0,
+    "name": "Pure Silk V-Neck Sleeveless Blouse",
+    "brand": "H&M",
+    "price": "$493.47",
+    "picture": "./Images/Women/Clothings/Blouses/1.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c6695a1c9d116babbbcf4e0",
+    "index": 1,
+    "name": "V-Neck Longline Short Sleeve Tunic",
+    "brand": "H&M",
+    "price": "$426.63",
+    "picture": "./Images/Women/Clothings/Blouses/2.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c6695a1e64cb0d726710b40",
+    "index": 2,
+    "name": "Satin Long Sleeve Shirt",
+    "brand": "Pull&Bear",
+    "price": "$596.00",
+    "picture": "./Images/Women/Clothings/Blouses/3.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c6695a1ace2d4176f5a278e",
+    "index": 3,
+    "name": "Animal Print High Neck Long Sleeve Blouse",
+    "brand": "Zara",
+    "price": "$496.23",
+    "picture": "./Images/Women/Clothings/Blouses/4.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c6695a129d1a546f5209f93",
+    "index": 4,
+    "name": "Long Sleeve Blouse",
+    "brand": "Zara",
+    "price": "$540.14",
+    "picture": "./Images/Women/Clothings/Blouses/5.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c6695a141aa132a31a7c3e7",
+    "index": 5,
+    "name": "High Neck Long Sleeve Blouse",
+    "brand": "Stradivarius",
+    "price": "$457.27",
+    "picture": "./Images/Women/Clothings/Blouses/6.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c6695a1af5ce8a608a63dd5",
+    "index": 6,
+    "name": "Polka Dot Round Neck Long Sleeve Shell Top",
+    "brand": "H&M",
+    "price": "$563.11",
+    "picture": "./Images/Women/Clothings/Blouses/7.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c6695a1d74940a483106148",
+    "index": 7,
+    "name": "Round Neck Long Sleeve Blouse",
+    "brand": "Zara",
+    "price": "$457.25",
+    "picture": "./Images/Women/Clothings/Blouses/8.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c6695a1836859a3a02217d1",
+    "index": 8,
+    "name": "Striped Long Sleeve Shirt",
+    "brand": "Pull&Bear",
+    "price": "$503.89",
+    "picture": "./Images/Women/Clothings/Blouses/9.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c6695a145cc0df167627e4c",
+    "index": 9,
+    "name": "Round Neck Long Sleeve Blouse",
+    "brand": "Pull&Bear",
+    "price": "$453.64",
+    "picture": "./Images/Women/Clothings/Blouses/10.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c6695a16faeb1e983590f5e",
+    "index": 10,
+    "name": "Printed Round Neck Long Sleeve Blouse",
+    "brand": "Stradivarius",
+    "price": "$407.68",
+    "picture": "./Images/Women/Clothings/Blouses/11.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c6695a1d78321e568970a1a",
+    "index": 11,
+    "name": "Round Neck Long Sleeve Blouse",
+    "brand": "Pull&Bear",
+    "price": "$474.97",
+    "picture": "./Images/Women/Clothings/Blouses/12.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c6695a1b25bbfc0e4c789ff",
+    "index": 12,
+    "name": "Floral Print Long Sleeve Shell Top",
+    "brand": "Zara",
+    "price": "$537.66",
+    "picture": "./Images/Women/Clothings/Blouses/13.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c6695a1c410090ae71e4510",
+    "index": 13,
+    "name": "Ruched Waist Long Sleeve Blouse",
+    "brand": "Marks & Spencer",
+    "price": "$455.16",
+    "picture": "./Images/Women/Clothings/Blouses/14.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": true
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c6695a134b666ad0476b93b",
+    "index": 14,
+    "name": "PETITE Oversized Long Sleeve Blouse",
+    "brand": "Zara",
+    "price": "$447.69",
+    "picture": "./Images/Women/Clothings/Blouses/15.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": true
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c6695a198f3981886e191f4",
+    "index": 15,
+    "name": "Polka Dot Round Neck Long Sleeve Blouse",
+    "brand": "H&M",
+    "price": "$468.84",
+    "picture": "./Images/Women/Clothings/Blouses/16.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c6695a1cd8a984ac1d8e06a",
+    "index": 16,
+    "name": "Striped Round Neck Long Sleeve Blouse",
+    "brand": "Zara",
+    "price": "$569.43",
+    "picture": "./Images/Women/Clothings/Blouses/17.jpg",
+    "Available": true,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": true
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c6695a1423ef964783dfe36",
+    "index": 17,
+    "name": "High Neck Long Sleeve Blouse",
+    "brand": "Pull&Bear",
+    "price": "$572.47",
+    "picture": "./Images/Women/Clothings/Blouses/18.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": false
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": true
+      }
+    ]
+  },
+  {
+    "id": "5c6695a1546fcd30ebc7a2e0",
+    "index": 18,
+    "name": "Tie Neck Long Sleeve Blouse",
+    "brand": "Zara",
+    "price": "$590.68",
+    "picture": "./Images/Women/Clothings/Blouses/19.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": false
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": false
+      },
+      {
+        "2XL": false
+      }
+    ]
+  },
+  {
+    "id": "5c6695a1b42328ddffa39dcd",
+    "index": 19,
+    "name": "Animal Print Long Sleeve Blouse",
+    "brand": "H&M",
+    "price": "$458.62",
+    "picture": "./Images/Women/Clothings/Blouses/20.jpg",
+    "Available": false,
+    "size": [
+      {
+        "XS": true
+      },
+      {
+        "S": false
+      },
+      {
+        "M": false
+      },
+      {
+        "L": true
+      },
+      {
+        "XL": true
+      },
+      {
+        "2XL": true
+      }
+    ]
+  }
+]

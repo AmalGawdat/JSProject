@@ -1,0 +1,37 @@
+@import url("Picky.css");
+.Product img{
+    width: 300px;
+    height: auto;
+}
+.Product{
+    margin-top: 10px;
+}
+.Product div {
+    margin-bottom: 18px;
+    padding: 5px;
+    text-align: center;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.Product p {
+    margin: 3px;
+}
+
+.ProductPage{
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+}
+
+.ProductPage:hover{
+    color: darkgray;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#searchDiv a img:hover{
+    opacity: 0.5;
+}

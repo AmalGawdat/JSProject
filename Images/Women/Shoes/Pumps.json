@@ -1,0 +1,258 @@
+[
+  {
+    "id": "5c66ce56f4b0c6c1a52cc835",
+    "index": 0,
+    "name": "Leather Almond Toe Pumps",
+    "brand": "Zara",
+    "price": "$296.57",
+    "picture": "./Images/Women/Shoes/Pumps/1.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": false
+      },
+      {
+        "38": false
+      },
+      {
+        "39": true
+      },
+      {
+        "40": true
+      },
+      {
+        "41": false
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66ce566f6989def41a77b8",
+    "index": 1,
+    "name": "Leather Weave Ballet Pumps",
+    "brand": "Zara",
+    "price": "$243.45",
+    "picture": "./Images/Women/Shoes/Pumps/2.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": true
+      },
+      {
+        "38": false
+      },
+      {
+        "39": false
+      },
+      {
+        "40": true
+      },
+      {
+        "41": false
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66ce563fee2f950b2ba85a",
+    "index": 2,
+    "name": "Wide Fit Leather Pumps",
+    "brand": "Stradivarius",
+    "price": "$243.44",
+    "picture": "./Images/Women/Shoes/Pumps/3.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": false
+      },
+      {
+        "38": true
+      },
+      {
+        "39": false
+      },
+      {
+        "40": true
+      },
+      {
+        "41": false
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66ce567bfcb542bf879105",
+    "index": 3,
+    "name": "Wide Fit Suede Ballet Pumps",
+    "brand": "Stradivarius",
+    "price": "$205.65",
+    "picture": "./Images/Women/Shoes/Pumps/4.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": false
+      },
+      {
+        "38": false
+      },
+      {
+        "39": false
+      },
+      {
+        "40": false
+      },
+      {
+        "41": true
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66ce56d0dbee986ec63da5",
+    "index": 4,
+    "name": "Extra Wide Fit Bow Ballet Pumps",
+    "brand": "Marks & Spencer",
+    "price": "$291.74",
+    "picture": "./Images/Women/Shoes/Pumps/5.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": true
+      },
+      {
+        "38": true
+      },
+      {
+        "39": true
+      },
+      {
+        "40": false
+      },
+      {
+        "41": true
+      },
+      {
+        "42": false
+      }
+    ]
+  },
+  {
+    "id": "5c66ce563a19610952dfa772",
+    "index": 5,
+    "name": "Bow Ballerina Pumps",
+    "brand": "Zara",
+    "price": "$240.44",
+    "picture": "./Images/Women/Shoes/Pumps/6.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": false
+      },
+      {
+        "37": true
+      },
+      {
+        "38": false
+      },
+      {
+        "39": false
+      },
+      {
+        "40": false
+      },
+      {
+        "41": true
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66ce560d81aefc3defdc91",
+    "index": 6,
+    "name": "Leather Cut Out Dolly Pump Shoes",
+    "brand": "Zara",
+    "price": "$267.12",
+    "picture": "./Images/Women/Shoes/Pumps/7.jpg",
+    "Available": false,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": false
+      },
+      {
+        "38": true
+      },
+      {
+        "39": true
+      },
+      {
+        "40": false
+      },
+      {
+        "41": true
+      },
+      {
+        "42": true
+      }
+    ]
+  },
+  {
+    "id": "5c66ce5683b90da02c4f98f4",
+    "index": 7,
+    "name": "Wide Fit Leather Ballet Pumps",
+    "brand": "H&M",
+    "price": "$338.03",
+    "picture": "./Images/Women/Shoes/Pumps/8.jpg",
+    "Available": true,
+    "size": [
+      {
+        "36": true
+      },
+      {
+        "37": false
+      },
+      {
+        "38": false
+      },
+      {
+        "39": false
+      },
+      {
+        "40": false
+      },
+      {
+        "41": true
+      },
+      {
+        "42": false
+      }
+    ]
+  }
+]
