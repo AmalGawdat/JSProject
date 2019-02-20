@@ -34,9 +34,7 @@ $.ajax(
         {
             var categoryId = getCatId();
             var productId = getProductId();
-            console.log(categoryId);
-            console.log(pickyData);
-            console.log(pageCategory);
+
             if (!categoryId && !productId)
                 return;
             pickyData = response;
