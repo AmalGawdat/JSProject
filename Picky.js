@@ -1,6 +1,48 @@
 var pickyData;
 var pageCategory;
 
+window.addEventListener('load', function()
+{
+    $.ajax(
+    {
+        method: 'GET',
+        url: './Picky.json',
+        statusCode: 
+        {
+            200: function (response)
+            {
+                var categoryId = getCatId();
+                var productId = getProductId();
+
+                if (!categoryId && !productId)
+                    return;
+                pickyData = response;
+
+                if(categoryId)
+                {
+                    pageCategory = getCategoryInternal(categoryId);
+
+                    if(pageCategory && pageCategory.categories)
+                        fillCategory(pageCategory);
+
+                    else if(pageCategory && pageCategory.products)
+                    {
+                        fillCategoryInfo(pageCategory);
+                        fillProducts(pageCategory.products)
+                    }
+                }
+                else if(productId)
+                {
+                    var myProduct = getProduct(productId);
+                    if(myProduct)
+                        fillFinalProduct(myProduct);    
+                }
+            }
+        }
+    });
+
+})
+
 function getCategoryInternal(catId, parentCategory)
 {
     if (!parentCategory)
@@ -22,48 +64,7 @@ function getCategoryInternal(catId, parentCategory)
     return null;
 }
 
-$(function ()
-{
-$.ajax(
-{
-    method: 'GET',
-    url: './Picky.json',
-    statusCode: 
-    {
-        200: function (response)
-        {
-            var categoryId = getCatId();
-            var productId = getProductId();
 
-            if (!categoryId && !productId)
-                return;
-            pickyData = response;
-            
-            if(categoryId)
-            {
-                pageCategory = getCategoryInternal(categoryId);
-
-                if(pageCategory && pageCategory.categories)
-                    fillCategory(pageCategory);
-
-                else if(pageCategory && pageCategory.products)
-                {
-                    fillCategoryInfo(pageCategory);
-                    fillProducts(pageCategory.products)
-                }
-            }
-            else if(productId)
-            {
-                var myProduct = getProduct(productId);
-                if(myProduct)
-                    fillFinalProduct(myProduct);
-                    
-            }
-            
-        }
-    }
-});
-})
 
 function getQueryString()
 {
