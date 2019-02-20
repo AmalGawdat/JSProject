@@ -1,0 +1,95 @@
+@keyframes blink {
+    0% {
+        text-shadow: 3px 3px 15px yellow;
+        font-weight: bold;
+    }
+
+    50% {
+        color: hotpink;
+
+
+    }
+
+    100% {
+        text-shadow: 3px 3px 15px yellow;
+        font-weight: bold;
+
+    }
+
+
+}
+
+
+
+body {
+    min-height: 100%;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(backgroundimg.jpg);
+}
+
+
+
+#chkBtn{position: relative;
+left:100px;
+top:70px}
+
+.CartPage{color: whitesmoke}
+
+#cartArea{color: whitesmoke}
+
+#signInDiv {
+    position: absolute;
+    right: 20px;
+    color: white;
+    height: 50px;
+}
+
+table {
+    background-color: rgba(255,245,238 ,.83 );
+    box-shadow: 7px 7px 15px rgba(238, 130, 238, 0.6);
+    
+    border: white;
+    width: 480px;
+    height: 200px;
+    padding: 2%;
+    margin-left: 25%;
+    margin-top: 1%;
+    border-radius: 8px;
+}
+
+
+.intro {
+    color: whitesmoke;
+    padding: 1%;
+    margin-left: 10%;
+    margin-right: 20%;
+    text-align: center;
+}
+
+.intro h1 {
+    color: pink
+}
+
+.intro h1 {
+    color: pink;
+    animation-name: blink;
+    animation-iteration-count: 100;
+    animation-duration: 1.5s;
+}
+
+.intro h3 {
+    color: lightblue;
+}
+
+.footer{text-align: center;
+    color: azure;
+    margin-left: -11%;
+}
+
+td {
+    border-radius: 5px;
+    padding: 4px;
+}
+.regPage{
+    margin-left: 5%;
+}
+#sub{text-align: center;}

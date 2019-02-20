@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Picky</title>
+    <link rel="stylesheet" href="Picky.css">
+    <link rel="stylesheet" href="reg.css">
+</head>
+
+<body class='regPage'>
+    <form action="ThankYouPage.htm">
+
+        <div class="intro">
+            <h1>Welcome to Picky!</h1>
+            <h2 id='reg'>Register!</h2>
+
+            <h3>Please fill in the this from below in order to register to our website, we shall send you a confirmation email upon successful registration.</h3>
+
+        </div>
+        <table>
+            <tr>
+                <td>User Name</td>
+                <td><input type="text" placeholder="Enter your user name" required></td>
+            </tr>
+
+            <tr>
+                <td>Email</td>
+                <td><input type="email" placeholder="Enter your email address" required></td>
+            </tr>
+
+            <tr>
+                <td>Password</td>
+                <td><input type="password" placeholder="Enter your password" required></td>
+            </tr>
+            <tr>
+                <td rowspan=2>Gender</td>
+                <td><input type="radio" value="M" name="gender"><label> Male</label></td>
+            </tr>
+            <tr>
+
+                <td><input type="radio" name="gender"><label> Female</label></td>
+            </tr>
+            <tr>
+                <td>Birthday: </td>
+                <td>
+                    <input type="date">
+
+                </td>
+               
+            </tr>
+            
+            <tr>
+                <td id="int" colspan="2">Please choose the products that you are interseted in:</td>
+
+            </tr>
+            <tr>
+                <td><input type="checkbox"> Product A</td>
+                <td><input type="checkbox"> Produc B</td>
+            </tr>
+            <tr>
+                <td><input type="checkbox"> Product C</td>
+                <td><input type="checkbox"> Product D</td>
+            </tr>
+            <tr>
+                <td><input type="checkbox"> Product E</td>
+                <td><input type="checkbox"> Product F</td>
+            </tr>
+            <tr>
+                <td id="int" colspan="2">Would tou like to recieve updates about the chosen products?</td>
+            </tr>
+            <tr>
+                <td>
+                    <input type="checkbox">
+                    <label for="" style="color: dimgray">Subscribe to our email service</label>
+                    </td>
+            </tr>
+            <tr>
+                <td id="sub" colspan="2"><input type="submit" value='Register'></td>
+
+            </tr>
+        </table>
+
+    </form>
+<br>
+<br>
+<br>
+<div class='footer'>2019 Picky.com &reg;   All rights recieved</div>
+</body>
+
+</html>
